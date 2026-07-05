@@ -1,0 +1,5 @@
+# Release assets are uploaded via GitHub releases, not committed
+*.zip
+
+# Helper scripts for local build
+*.ps1
