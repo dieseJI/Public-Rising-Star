@@ -1,2 +1,2 @@
-game=1.0.8
+game=1.0.9
 launcher=1.0.0
