@@ -1,5 +1,13 @@
 # Release assets are uploaded via GitHub releases, not committed
 *.zip
 
+# Previous version metadata used only for local patch generation
+version.previous.txt
+Game.previous.zip
+
 # Helper scripts for local build
 *.ps1
+
+# Local test artifacts
+_test_*
+_launcher_methods_test*
